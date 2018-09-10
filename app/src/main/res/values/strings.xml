@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+
+    <!-- settings string values-->
+    <string name="sort_most_popular">Most Popular</string>
+    <string name="sort_highest_rated">Highest Rated</string>
+    <string name="sort_favourite">Favourite</string>
+
+    <!-- no internet connection message -->
+    <string name="error_message">Failed to get results, Please try again</string>
+
+    <!-- Favourite movies error message string value-->
+    <string name="fav_error_message">Favourite movies not found</string>
+
+    <!-- movie detials activity title tag -->
+    <string name="title_activity_movie_details">MovieDetails</string>
+
+    <string name="image_content_description">Displays Movie poster</string>
+
+
+
+    <!-- Trailer list label string value-->
+    <string name="trailers_label">Trailers :</string>
+    <!-- Trailer list error message string value-->
+    <string name="trailers_error_message">Trailers not available.</string>
+
+    <!-- Review list label string value-->
+    <string name="reviews_label">Reviews :</string>
+    <!-- Review error message string value-->
+    <string name="reviews_error_message">Reviews not available.</string>
+</resources>
